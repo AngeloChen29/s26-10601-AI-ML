@@ -1,2 +1,2 @@
 This is a repository of the projects I made in the graduate level AI-ML course at Carnegie Mellon University. Some of the stuff here is starter code/boilerplate for running files and setting up dependencies.
-I do not claim the ownership of that material; those belong to the developers of the courseware at 10-301/601/701 at Carnegie Mellon. I completed these projects for the course.
+I do not claim the ownership of that material; those belong to the developers of the courseware at 10-301/601/701 at Carnegie Mellon. However, the completion of these projects is entirely work of my own.
